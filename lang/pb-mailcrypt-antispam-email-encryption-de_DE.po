@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PB MailCrypt - AntiSpam E-Mail Encryption\n"
+"POT-Creation-Date: 2017-04-21 17:29+0200\n"
+"PO-Revision-Date: 2017-04-21 17:30+0200\n"
+"Last-Translator: Pascal Bajorat <pascal@pascal-bajorat.com>\n"
+"Language-Team: Pascal Bajorat <pascal@pascal-bajorat.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: pb-mailcrypt.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/settings.php:36
+#, php-format
+msgid ""
+"<strong>Hey %s</strong>, we have updated <a href=\"%s\">Mailcrypt</a>. Visit "
+"the <a href=\"%s\">plugin settings page</a> to get deeper insights about the "
+"new features. This message will disappear automatically after you've visited "
+"the plugin settings."
+msgstr ""
+"<strong>Hey %s</strong>, wir haben <a href=\"%s\">Mailcrypt</a> "
+"aktualisiert. Besuche die <a href=\"%s\">Plugin-Einstellungen</a> und schau "
+"dir die neuen Funktionen an. Diese Nachricht verschwindet automatisch, "
+"nachdem du die Plugin-Einstellungen geöffnet hast."
+
+#: inc/settings.php:41
+msgid "Close"
+msgstr "schließen"
+
+#: inc/settings.php:59 inc/settings.php:81
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: inc/settings.php:84
+msgid ""
+"Here you can enable the automatic email encryption mode for PB MailCrypt. If "
+"you have problems with the automatic email encryption or  special cases that "
+"not be auto detected you can use the following shortcode:"
+msgstr ""
+"Hier kannst du den automatischen E-Mail-Verschlüsselungsmodus von PB "
+"MailCrypt aktivieren. Wenn du Probleme mit der automatischen E-Mail-"
+"Verschlüsselung oder spezielle Fälle haben solltest, welche nicht "
+"automatisch erkannt werden, so kannst du den folgenden Shortcode verwenden:"
+
+#: inc/settings.php:88 inc/settings.php:89 inc/settings.php:120
+msgid "Alternative Contact-Page URL"
+msgstr "Alternative Kontakt-Seite (URL)"
+
+#: inc/settings.php:88 inc/settings.php:89
+msgid "A-Tag title attribute"
+msgstr "A-Tag Titel Attribut"
+
+#: inc/settings.php:89
+msgid "link text"
+msgstr "Link-Text"
+
+#: inc/settings.php:94
+#, php-format
+msgid ""
+"PB MailCrypt is a free WordPress Plugin by <a href=\"%s\" target=\"_blank"
+"\">Pascal Bajorat</a> and made with %s in Berlin, Germany. If you like it "
+"and maybe want to <a href=\"%s\" target=\"_blank\">buy me a cup of coffee or "
+"a beer</a> I would appreciate that very much."
+msgstr ""
+"PB MailCrypt ist ein kostenloses WordPress Plugin von <a href=\"%s\" target="
+"\"_blank\">Pascal Bajorat</a> und wurde mit viel %s in Berlin entwickelt. "
+"Wenn dir das Plugin gefällt und du mich vielleicht <a href=\"%s\" target="
+"\"_blank\">auf eine Tasse Kaffee oder ein Bier einladen</a> möchtest, würde "
+"ich das sehr zu schätzen wissen."
+
+#: inc/settings.php:106
+msgid "Auto mode"
+msgstr "Automatikmodus"
+
+#: inc/settings.php:110
+msgid "enable automatic email encryption"
+msgstr "ermöglicht die automatische E-Mail-Verschlüsselung"
+
+#: inc/settings.php:116
+msgid "Link or Page-ID"
+msgstr "Link oder Page-ID"
+
+#: inc/settings.php:126
+msgid "Exclude from auto mode"
+msgstr "Vom Automatikmodus ausschließen"
+
+#: inc/settings.php:130
+msgid "Page or Post IDs that will be excluded from auto mode, e.g. 1, 2, 3"
+msgstr ""
+"Post oder Page IDs, die vom Automatikmodus ausgeschlossen werden z.B. 1, 2, 3"
+
+#. Plugin Name of the plugin/theme
+#: inc/settings.php:140
+msgid "PB MailCrypt - AntiSpam E-Mail Encryption"
+msgstr "PB MailCrypt - AntiSpam E-Mail Encryption"
+
+#: inc/settings.php:141
+msgid "MailCrypt"
+msgstr "MailCrypt"
+
+#: inc/settings.php:170
+msgid "Plugins & Support"
+msgstr "Plugins & Support"
+
+#: inc/settings.php:176
+msgid "PB SEO Friendly Images"
+msgstr "PB SEO Friendly Images"
+
+#: inc/settings.php:179
+msgid ""
+"This plugin is a full-featured solution for SEO friendly images. Optimize "
+"\"alt\" and \"title\" attributes for all images and post thumbnails. This "
+"plugin helps you to improve your traffic from search engines."
+msgstr ""
+"PB SEO Friendly Images: Einfach, schnell und automatisch "
+"suchmaschinenfreundliche Bilder für WordPress. Simple Optimierung von Alt- "
+"und Title Attributen."
+
+#: inc/settings.php:180 inc/settings.php:192
+msgid "Install Plugin"
+msgstr "Plugin installieren"
+
+#: inc/settings.php:186 inc/settings.php:188
+msgid "PrimusNote"
+msgstr "PrimusNote"
+
+#: inc/settings.php:188
+msgid "Project Management"
+msgstr "Projekt-Management"
+
+#: inc/settings.php:191
+msgid ""
+"PrimusNote is a Project Management and Team Collaboration software based on "
+"WordPress."
+msgstr ""
+"PrimusNote ist eine Projekt-Management und Team-Kollaborations-Software auf "
+"WordPress Basis."
+
+#: inc/settings.php:197
+msgid "Support"
+msgstr "Support"
+
+#: inc/settings.php:198
+msgid ""
+"Do you need some help with this plugin? I am here to help you. Get in touch:"
+msgstr ""
+"Benötigst du Unterstützung mit diesem Plugin? Ich bin gerne bereit zu "
+"helfen, schreib mir einfach:"
+
+#: inc/settings.php:200
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/pb-mailcrypt-antispam-email-encryption/"
+msgstr "https://wordpress.org/plugins/pb-mailcrypt-antispam-email-encryption/"
+
+#. Description of the plugin/theme
+msgid ""
+"This Plugin provides functions for an automatic email encryption and "
+"protection against spam."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pascal Bajorat"
+msgstr "Pascal Bajorat"
+
+#. Author URI of the plugin/theme
+msgid "https://www.pascal-bajorat.com"
+msgstr "https://www.pascal-bajorat.com"
+
+#~ msgid ""
+#~ "This Plugin provides functions for automatic email encryption and "
+#~ "protection against spam."
+#~ msgstr ""
+#~ "Dieses Plugin sorgt mit seinen Funktionen für eine automatische Email "
+#~ "Verschlüsselung und schützt gegen Spam."
+
+#~ msgid ""
+#~ "http://wordpress.org/extend/plugins/pb-mailcrypt-antispam-email-"
+#~ "encryption/"
+#~ msgstr ""
+#~ "http://wordpress.org/extend/plugins/pb-mailcrypt-antispam-email-"
+#~ "encryption/"
+
+#~ msgid ""
+#~ "This Plugin provides you an easy to use Shortcode to encrypt email links "
+#~ "and protect them against spam bots."
+#~ msgstr ""
+#~ "Dieses Plugin bietet dir einen einfach zu verwendenden Shortcode, um E-"
+#~ "Mail-Links zu verschlüsseln und schützt diese effektiv gegen Spam-Bots."
+
+#~ msgid "http://www.pascal-bajorat.com"
+#~ msgstr "http://www.pascal-bajorat.com"
+
+#~ msgid "Link Text"
+#~ msgstr "Link-Text"
+
+#~ msgid "Link"
+#~ msgstr "Link"
